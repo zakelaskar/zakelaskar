@@ -6,7 +6,8 @@
 
 ## 🚀 Projects
 - **B-Line Public Transit Analysis** – [repo link]
-- **Depression Detection System** – [repo link](https://github.com/zakelaskar/depression-detection-system)
+- **[Depression Detection System](https://github.com/zakelaskar/depression-detection-system)** – Multi-modal emotion recognition project using text, audio, and video inputs to detect potential signs of depression using machine learning techniques.
+
 - **[Cement Strength Prediction](https://github.com/zakelaskar/cement-strength-prediction)** – Machine learning regression model to predict cement compressive strength based on chemical and physical features.
 
 ## 🛠️ Tech Stack
