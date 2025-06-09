@@ -7,7 +7,8 @@
 ## 🚀 Projects
 - **B-Line Public Transit Analysis** – [repo link]
 - **Depression Detection System** – [repo link](https://github.com/zakelaskar/depression-detection-system)
-- **Social Media Analytics Dashboard** – [repo link]
+- **[Cement Strength Prediction](https://github.com/zakelaskar/cement-strength-prediction)** – Machine learning regression model to predict cement compressive strength based on chemical and physical features.
+![Pairplot of dataset variables](https://github.com/zakelaskar/cement-strength-prediction/raw/main/pairplot.png)
 
 ## 🛠️ Tech Stack
 Python, R, SQL, Power BI, Pandas, Scikit-Learn, TensorFlow, Git, HTML/CSS
