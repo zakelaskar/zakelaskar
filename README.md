@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Zakir Elaskar
 
-<!--
-**zakelaskar/zakelaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Data Science and Analytics at California State University, Chico  
+📊 Passionate about data storytelling, machine learning, and analytics  
+💼 Looking for Summer 2025 internships | Open to collaboration  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- **B-Line Public Transit Analysis** – [repo link]
+- **Depression Detection with NLP** – [repo link]
+- **Social Media Analytics Dashboard** – [repo link]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+Python, R, SQL, Power BI, Pandas, Scikit-Learn, TensorFlow, Git, HTML/CSS
+
+## 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/zakelaskar/)
+- [Email](mailto:zelaskar@csuchico.edu)
