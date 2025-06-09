@@ -16,7 +16,7 @@
   
 
 ## 🛠️ Tech Stack
-Python, R, SQL, Power BI, Pandas, Scikit-Learn, TensorFlow, Git, HTML/CSS
+C++, Python, Pandas, Numpy, R, MySQL, Data Analysis, Power BI, Data Visualization, MS Office, Scikit-Learn, 
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/zakelaskar/)
