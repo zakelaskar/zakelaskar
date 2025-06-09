@@ -6,7 +6,7 @@
 
 ## 🚀 Projects
 - **B-Line Public Transit Analysis** – [repo link]
-- **Depression Detection with NLP** – [repo link]
+- **Depression Detection System** – [repo link](https://github.com/zakelaskar/depression-detection-system)
 - **Social Media Analytics Dashboard** – [repo link]
 
 ## 🛠️ Tech Stack
