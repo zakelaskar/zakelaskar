@@ -5,7 +5,8 @@
 💼 Looking for Summer 2025 internships | Open to collaboration  
 
 ## 🚀 Projects
-- **B-Line Public Transit Analysis** – [repo link]
+- - [B-Line Transit Service Optimization](https://github.com/zakelaskar/B-Line-Transit-Service-Optimization) – Master's culminating project analyzing 134,548+ boarding records to evaluate rider demand, service utilization, and route-level efficiency using ARMA, GLSAR, OLS, and Poisson regression models.
+    
 - **[AutoML Pipeline for Tabular Data](https://github.com/zakelaskar/Math485-Project)** – Developed an automated machine learning pipeline incorporating feature selection and model evaluation techniques.
 
 - **[Math 608 Data Science Final Project](https://github.com/zakelaskar/Math608-DataScienceProject)** – Analytical deep dive into why Python 3.11 moved from TimSort to PowerSort, comparing sorting efficiency, edge cases, and algorithm design. Includes step-by-step simulations and visual breakdowns of run merging, power calculation, and final sorting outcomes.
