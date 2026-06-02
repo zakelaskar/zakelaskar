@@ -5,7 +5,7 @@
 💼 Looking for Summer 2025 internships | Open to collaboration  
 
 ## 🚀 Projects
-- - [B-Line Transit Service Optimization](https://github.com/zakelaskar/B-Line-Transit-Service-Optimization) – Master's culminating project analyzing 134,548+ boarding records to evaluate rider demand, service utilization, and route-level efficiency using ARMA, GLSAR, OLS, and Poisson regression models.
+- [B-Line Transit Service Optimization](https://github.com/zakelaskar/B-Line-Transit-Service-Optimization) – Master's culminating project analyzing 134,548+ boarding records to evaluate rider demand, service utilization, and route-level efficiency using ARMA, GLSAR, OLS, and Poisson regression models.
     
 - **[AutoML Pipeline for Tabular Data](https://github.com/zakelaskar/Math485-Project)** – Developed an automated machine learning pipeline incorporating feature selection and model evaluation techniques.
 
